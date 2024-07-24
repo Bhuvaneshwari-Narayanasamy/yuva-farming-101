@@ -1,0 +1,24 @@
+place,latitude,longitude,soil_type,recommended_crops,recommended_fertilizer,pH
+Coimbatore,11.0168,76.9558,Black Soil,"Cotton, Sunflower, Maize, Pulses",N-P-K 10-26-26,6.5
+Madurai,9.9252,78.1198,Red Sandy Soil,"Millets, Sorghum, Bajra, Pulses",N-P-K 14-35-14,6.8
+Tiruchirappalli,10.7905,78.7047,Alluvial Soil,"Paddy, Sugarcane, Banana, Vegetables",N-P-K 20-20-20,7.0
+Salem,11.6643,78.1460,Red Loamy Soil,"Groundnut, Pulses, Sugarcane, Cotton",N-P-K 17-17-17,6.2
+Tirunelveli,8.7139,77.7567,Red Soil,"Paddy, Banana, Coconut, Cotton",N-P-K 19-19-19,6.3
+Thanjavur,10.7867,79.1378,Alluvial Soil,"Paddy, Sugarcane, Groundnut, Banana",N-P-K 20-10-10,7.1
+Erode,11.3410,77.7172,Black Cotton Soil,"Cotton, Maize, Turmeric, Sugarcane",N-P-K 18-18-18,6.6
+Dindigul,10.3624,77.9695,Red Soil,"Paddy, Millets, Pulses, Sugarcane",N-P-K 15-15-15,6.4
+Vellore,12.9165,79.1325,Clayey Soil,"Paddy, Sugarcane, Groundnut, Pulses",N-P-K 16-16-16,6.9
+Chennai,13.0827,80.2707,Red Soil,"Paddy, Groundnut, Sugarcane, Vegetables",N-P-K 12-32-16,7.2
+Tiruppur,11.1085,77.3411,Black Soil,"Cotton, Sunflower, Maize, Pulses",N-P-K 10-26-26,6.5
+Karur,10.9617,78.0888,Red Loamy Soil,"Groundnut, Pulses, Sugarcane, Cotton",N-P-K 17-17-17,6.2
+Nagercoil,8.1822,77.4337,Laterite Soil,"Cashew, Coconut, Tapioca, Rubber",N-P-K 8-8-8,6.9
+Kanchipuram,12.8374,79.7036,Clayey Soil,"Paddy, Sugarcane, Groundnut, Pulses",N-P-K 16-16-16,6.9
+Tambaram,12.9229,80.1275,Laterite Soil,"Cashew, Coconut, Tapioca, Rubber",N-P-K 8-8-8,6.9
+Namakkal,11.2180,78.1662,Red Loamy Soil,"Groundnut, Pulses, Sugarcane, Cotton",N-P-K 17-17-17,6.2
+Cuddalore,11.7465,79.7681,Sandy Soil,"Paddy, Sugarcane, Pulses, Banana",N-P-K 14-28-14,6.8
+Tiruvannamalai,12.2316,79.0672,Laterite Soil,"Cashew, Coconut, Tapioca, Rubber",N-P-K 8-8-8,6.9
+Kanyakumari,8.0883,77.5385,Sandy Soil,"Coconut, Tapioca, Spices, Vegetables",N-P-K 14-35-14,6.8
+Tiruvallur,13.1394,79.9073,Red Loamy Soil,"Groundnut, Pulses, Sugarcane, Cotton",N-P-K 17-17-17,6.2
+Tirupathur,12.4949,78.5696,Laterite Soil,"Cashew, Coconut, Tapioca, Rubber",N-P-K 8-8-8,6.9
+Ramanathapuram,9.3701,78.8341,Red Sandy Soil,"Millets, Sorghum, Bajra, Pulses",N-P-K 14-35-14,6.8
+Krishnagiri,12.5186,78.2132,Black Soil,"Cotton, Sunflower, Maize, Pulses",N-P-K 10-26-26,6.5
